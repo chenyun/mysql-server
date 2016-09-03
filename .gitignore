@@ -3120,3 +3120,21 @@ client/mysql_ssl_rsa_setup
 
 # Allow
 !include/*/boost/geometry/*
+/CMakeScripts/
+/MySQL.xcodeproj/
+/cmd-line-utils/libedit/CMakeScripts/
+/extra/CMakeScripts/
+/libbinlogevents/include/binlog_config.h
+/libbinlogstandalone/src/CMakeScripts/
+/libmysql/CMakeScripts/
+/libmysqld/CMakeScripts/
+/libmysqld/examples/CMakeScripts/
+/mysql-test/CMakeScripts/
+/plugin/rewriter/install_rewriter.sql
+/plugin/rewriter/uninstall_rewriter.sql
+/rapid/plugin/x/CMakeScripts/
+/rapid/plugin/x/mysqlx_error.h
+/scripts/CMakeScripts/
+/scripts/mysqlclient.pc
+/sql/CMakeScripts/
+/unittest/CMakeScripts/
